@@ -6,4 +6,4 @@ ini line 1
 tambah line menjadi 6
 
 
-hapus ajala
+tambah kecap asin
